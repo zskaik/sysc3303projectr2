@@ -1,5 +1,8 @@
-IDE used: eclipse
+THIS IS THE SUBMISSION FILE FROM ITERATON 4, this is a base ot revert from if we have to 
 
+
+=============================================================================================================================
+IDE used: eclipse
 
 Errors implemented (1,2,3,6) issues with 4,5 
 issue with error 3 due to issues with the swing library, to prevent issues with file transfer it was commented out   
